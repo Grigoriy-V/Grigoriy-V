@@ -26,8 +26,8 @@ My current direction is toward reliable multimodal AI systems that connect gener
 - **[Grounded RAG Agent Lab](https://github.com/Grigoriy-V/grounded-rag-agent-lab)**  
   Grounded question answering with citations, retrieval and answer evaluation, unsupported-question refusal, and a human-gated agent workflow.
 
-- **[Product Conversion ML Case](https://github.com/Grigoriy-V/product-conversion-ml-case)**  
-  Classical ML with leakage controls, frozen evaluation boundaries, imbalanced classification metrics, and decision-threshold analysis.
+- **[Multispectral Maize- Weed Segmentation](https://github.com/Grigoriy-V/multispectral-maize-weed-segmentation)** 
+  Semantic segmentation of maize and weeds in multispectral UAV imagery using the WeedsGalore dataset. 
 
 - **[Geni AI](https://github.com/Grigoriy-V/geni-ai-telegram-miniapp)**  
   An end-to-end generative AI product covering frontend, AI workflows, automation, payments, infrastructure, telemetry, and product analytics.
