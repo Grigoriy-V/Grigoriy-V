@@ -17,32 +17,35 @@ My current direction is toward reliable multimodal AI systems that connect gener
 - **[Human-in-the-Loop Generative ML Lab](https://github.com/Grigoriy-V/human-in-the-loop-generative-ml-lab)**  
   Generative model training, latent SiT, REPA, controlled evaluation, experiment tracking, and human-supervised agent orchestration.
 
+- **[Multispectral Maize–Weed Segmentation](https://github.com/Grigoriy-V/multispectral-maize-weed-segmentation)**  
+  End-to-end semantic segmentation across RGB and five-band multispectral UAV imagery, with held-out evaluation, tiled GeoTIFF inference, ONNX Runtime, FastAPI, Docker, and automated verification.
+
+- **[Local Multimodal Agent](https://github.com/Grigoriy-V/local-multimodal-agent)**  
+  A local Gemma-based agent with text, image, and audio input, LangGraph orchestration, vLLM inference, tool calling, persistent memory, controlled context, and approval-gated actions.
+
+- **[Open-Vocabulary 3D Vision Lab](https://github.com/Grigoriy-V/open-vocabulary-3d-vision-lab)**  
+  Text-driven localization in 3D Gaussian Splatting scenes, with frozen semantic evaluation, reproducible experiments, and UAV reconstruction diagnostics against visual and laser-reference evidence.
+
 - **[Visual Quality Gate](https://github.com/Grigoriy-V/visual-quality-gate)**  
   A runnable multimodal review system for structured visual QA, guide compliance, safe verdicts, evaluation, and cost tracking.
-
-- **[YOLO11 Hard Hat Detection](https://github.com/Grigoriy-V/yolo11-hard-hat-detection)**  
-  A reproducible computer-vision pipeline covering dataset audit, deterministic splitting, YOLO11 fine-tuning, held-out evaluation, error analysis, and CLI tooling; reached 0.943 mAP50 for helmet and uncovered-head detection.
-
-- **[Grounded RAG Agent Lab](https://github.com/Grigoriy-V/grounded-rag-agent-lab)**  
-  Grounded question answering with citations, retrieval and answer evaluation, unsupported-question refusal, and a human-gated agent workflow.
-
-- **[Multispectral Maize- Weed Segmentation](https://github.com/Grigoriy-V/multispectral-maize-weed-segmentation)**  
-  An end-to-end applied computer-vision pipeline covering controlled RGB-versus-multispectral segmentation, held-out evaluation, uncertainty analysis, tiled GeoTIFF inference, ONNX export, FastAPI, Docker, automated product verification, and structured observability. The five-band model reached 0.8212 mIoU versus 0.7986 for RGB. 
 
 - **[Geni AI](https://github.com/Grigoriy-V/geni-ai-telegram-miniapp)**  
   An end-to-end generative AI product covering frontend, AI workflows, automation, payments, infrastructure, telemetry, and product analytics.
 
+
 ## Core Technologies
 
-**AI / ML:** Python · PyTorch · scikit-learn · NumPy · Pandas · Diffusion Models · Flow Matching · Computer Vision · LLM / VLM · RAG · LoRA · CLIP · DINOv2 · LangChain
+**AI / ML:** Python · PyTorch · Transformers · scikit-learn · NumPy · Pandas · Diffusion Models · Flow Matching · Computer Vision · LLM / VLM · RAG · LoRA · CLIP · DINOv2 · SAM · CUDA · MLflow
 
-**AI Systems:** Model Evaluation · Human-in-the-Loop · Agents and Tool Use · Visual QA · Structured Outputs · Workflow Automation
+**AI Systems:** Model Evaluation · Human-in-the-Loop · Agents and Tool Use · LangChain · LangGraph · Visual QA · Workflow Automation
 
-**Backend & Infrastructure:** FastAPI · Docker · RunPod Serverless · AWS · ONNX · Hugging Face · Linux · Git · TensorBoard · VPS / Self-Hosting
+**Backend & Infrastructure:** FastAPI · Docker · RunPod Serverless · AWS · ONNX Runtime · vLLM · Hugging Face · Linux · Git · TensorBoard · VPS / Self-Hosting
 
-**Product Engineering:** React · Next.js · SQL · PostgreSQL · Supabase · n8n · REST APIs · Webhooks · Figma
+**Product Engineering:** React · Next.js · TypeScript · SQL · PostgreSQL · Supabase · n8n · REST APIs · Supabase · Product Analytics · Figma
 
-**Generative Media:** ComfyUI · OpenCV · MediaPipe · FFmpeg · Image and Video Generation
+**Generative Media:** ComfyUI · OpenCV · MediaPipe · Gaussian Splatting · FFmpeg · Image and Video Generation  
+
+
 
 ## Background
 
