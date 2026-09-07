@@ -20,8 +20,8 @@ My current direction is toward reliable multimodal AI systems that connect gener
 - **[Multispectral Maize–Weed Segmentation](https://github.com/Grigoriy-V/multispectral-maize-weed-segmentation)**  
   End-to-end semantic segmentation across RGB and five-band multispectral UAV imagery, with held-out evaluation, tiled GeoTIFF inference, ONNX Runtime, FastAPI, Docker, and automated verification.
 
-- **[Local Multimodal Agent](https://github.com/Grigoriy-V/local-multimodal-agent)**  
-  A local Gemma-based agent with text, image, and audio input, LangGraph orchestration, vLLM inference, tool calling, persistent memory, controlled context, and approval-gated actions.
+- **[Pinocchio_Agent_Harness](https://github.com/Grigoriy-V/local-multimodal-agent)**  
+  A harness for a personal assistant: one loop, any OpenAI-compatible model, Telegram and Chainlit, a local GPU or Modal with a sandbox for commands. The model is the agent.
 
 - **[Open-Vocabulary 3D Vision Lab](https://github.com/Grigoriy-V/open-vocabulary-3d-vision-lab)**  
   Text-driven localization in 3D Gaussian Splatting scenes, with frozen semantic evaluation, reproducible experiments, and UAV reconstruction diagnostics against visual and laser-reference evidence.
